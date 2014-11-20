@@ -1,0 +1,12 @@
+#dpype requirements
+# keep alphabetical order
+
+# dependencies
+pika==0.9.8
+pykka==1.2.0
+
+# log
+logging
+
+# testing
+nose
