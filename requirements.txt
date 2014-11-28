@@ -2,7 +2,7 @@
 # keep alphabetical order
 
 # dependencies
-pika==0.9.8
+pika==0.9.9
 pykka==1.2.0
 
 # log
